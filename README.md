@@ -39,7 +39,7 @@ $ cd dio-git-challenge
 ```
 * Open up in [Visual Studio Code](https://code.visualstudio.com/)
 ```bash
-$ $ code .
+$ code .
 ```
 ---
 <p align="center"> :copyright: Dimas Prates</p>
