@@ -16,7 +16,7 @@ Here you can find basic commits and branch management. Besides this readme being
         <th>Tech</th>
         <th>Concepts</th>
     </thead>
-    <tfoot>
+    <tbody>
         <tr>
             <td>Git</td>
             <td>Git flow</td>
@@ -25,7 +25,7 @@ Here you can find basic commits and branch management. Besides this readme being
             <td>GitHub</td>
             <td>Commit convention</td>
         </tr>
-    </tfoot>
+    </tbody>
 </table>
 
 # :memo: How to download
