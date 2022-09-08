@@ -8,7 +8,7 @@
 
 The purpose of this repository it's to practice the content learned in DIO bootcamp ([Pottencial .NET Developer](https://web.dio.me/track/35a4e967-50e1-4140-a858-a6c8f63904c4)).
 
-Here you can find basic commits and branch management. Besides this readme being used for description also represents a way to document the repository.
+Here you can find basic commits and branch management. Besides this readme being used for description also represents a way to document this repository.
 
 # :bento: Techs and Concepts
 <table>
